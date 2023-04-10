@@ -4,7 +4,7 @@
 <!--   <a href="https://slydragonn.site">
     <img alt="slydragonn portfolio" title="My Portfolio" src="https://custom-icon-badges.demolab.com/badge/my--website-white.svg?logo=sly-portfolio"/>
   </a> -->
-  <a href="https://www.linkedin.com/in/alejolg/](https://www.linkedin.com/in/dyonatha-kramer-053078111/">
+   <a href="https://www.linkedin.com/in/dyonatha-kramer-053078111/">
     <img alt="linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/alejolg-blue.svg?logo=linkedin"/>
   </a>
 <!--   <a href="https://www.youtube.com/@slydragonn">
