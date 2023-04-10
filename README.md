@@ -21,20 +21,31 @@ const INFO = {
   aboutMe:
     "Hi!, I'm a Software Developer from Brazil. Loading a description...",
   languages: [
-    "JavaScript",
     "TypeScript",
+    "Golang",
     "NodeJS",
     "Python",
-    "Postgresql",
-    "Golang",
+    "JavaScript",
     "PHP",
     "HTML",
     "CSS",
     "Bash",
-    "MySql"
+    "C",
   ],
-  tools: ["Neovim", "Git"],
-  frameworks: ["NestJS", "Express"],
+  "databases": [
+    "Postgres",
+    "Mysql",
+    "MongoDB",
+  ],
+  "services": [
+    "Apache Kafka",
+    "Redis",
+    "Keycloak",
+    "Kong API",
+    "Unleash",
+  ],
+  tools: ["Neovim", "Git", "Docker", "K8s"],
+  frameworks: ["NestJS", "Express", "Symfony", "EmberJS"],
   learning: ["React", "NextJS", "Rust"],
 };
 ```
