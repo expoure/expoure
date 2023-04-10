@@ -31,6 +31,7 @@ const INFO = {
     "HTML",
     "CSS",
     "Bash",
+    "MySql"
   ],
   tools: ["Neovim", "Git"],
   frameworks: ["NestJS", "Express"],
