@@ -5,7 +5,7 @@
     <img alt="slydragonn portfolio" title="My Portfolio" src="https://custom-icon-badges.demolab.com/badge/my--website-white.svg?logo=sly-portfolio"/>
   </a> -->
    <a href="https://www.linkedin.com/in/dyonatha-kramer-053078111/">
-    <img alt="linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/alejolg-blue.svg?logo=linkedin"/>
+    <img alt="linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/dyonatha-blue.svg?logo=linkedin"/>
   </a>
 <!--   <a href="https://www.youtube.com/@slydragonn">
     <img alt="youtube channel" title="Youtube" src="https://custom-icon-badges.demolab.com/badge/@slydragonn-red.svg?logo=slyyoutube&logoColor=white"/>
